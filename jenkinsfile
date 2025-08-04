@@ -1,0 +1,1 @@
+publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, icon: '', keepAll: false, reportDir: '', reportFiles: 'index3.html', reportName: 'HTML Report', reportTitles: '', useWrapperFileDirectly: true])
